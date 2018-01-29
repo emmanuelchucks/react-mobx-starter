@@ -17,7 +17,9 @@ Made with ❤️ by [Emmanuel Chucks](https://github.com/emmanuelchucks)
 
 ## Demo
 
-You can check out a preview of the click counter [here](https://emmanuelchucks.github.io/react-mobx-starter)
+You can check out an online preview of the click counter [here](https://emmanuelchucks.github.io/react-mobx-starter)
+
+![Demo](https://i.imgur.com/PZuH7Bh.gif "Logo Title Text 1")
 
 ## How to Use
 
