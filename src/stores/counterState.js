@@ -5,7 +5,7 @@ class Counter {
 
     @action
     increaseCount = () => {
-        this.count = this.count + 1;
+        this.count += 1;
     };
 
     @action

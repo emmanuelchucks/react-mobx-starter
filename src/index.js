@@ -1,8 +1,8 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { render } from "react-dom";
 
 import App from "./App";
 
 import counterState from "./stores/counterState";
 
-ReactDOM.render(React.createElement(App, { counterState }, null), document.getElementById("app"));
+render(React.createElement(App, { counterState }, null), document.getElementById("app"));

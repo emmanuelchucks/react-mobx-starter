@@ -25,7 +25,7 @@ You can check out an online preview of the click counter [here](https://emmanuel
 
 ### Clone the Repo
 
-`git clone https://github.com/emmanuelchucks/react-mobx-starter`
+`git clone https://github.com/emmanuelchucks/react-mobx-starter.git`
 
 ### Install
 
@@ -37,7 +37,7 @@ or
 
 ### Start the dev server
 
-`npm run start`
+`npm start`
 
 or
 
