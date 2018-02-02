@@ -10,7 +10,7 @@ const App = observer(function App({ counterState }) {
     return (
         <View>
             <CounterDisplay count={counterState.count} />
-            <Flex>
+            `<Flex>
                 <Button primary onClick={counterState.increaseCount}>Click me</Button>
                 <Button onClick={counterState.resetCount}>Reset Count</Button>
             </Flex>
