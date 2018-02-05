@@ -11,7 +11,7 @@ Made with ❤️ by [Emmanuel Chucks](https://github.com/emmanuelchucks)
 * React
 * MobX
 * styled-components
-* [Parcel](parceljs.org) - Hot reloading & dev server with zero configuration
+* [Parcel](https://parceljs.org) - Hot reloading & dev server with zero configuration
 * Babel
 * ESLint
 
